@@ -1,1 +1,1 @@
-print("aand")
+#solve the following congruence equation 11xx ≡ 22 
